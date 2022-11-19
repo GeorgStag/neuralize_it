@@ -1,0 +1,7 @@
+# data to be imported are set here
+
+# the name of the file must be "data.csv" in order to be imported
+
+# follow the instructions in the interface to load the data
+
+# testing data included for certifying software works before use

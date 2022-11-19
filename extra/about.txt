@@ -1,0 +1,17 @@
+#######################################
+#######################################
+### About
+
+neuralize_it is a simplistic interface 
+for running sequential neural networks 
+with tensorflow.
+
+We hope to provide a simple, yet 
+efficient interface for those who search 
+for an instant way to check the potential 
+of a neural network on their data, 
+avoiding initially the coding grinding 
+and even export the model for future use.
+
+Please mail us for any bug or 
+recommendation, georgstag@yandex.com
